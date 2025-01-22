@@ -1,2 +1,2 @@
-# Machine-Learning-
-Proper Way to Do Machine Learnng 
+# DATA SCIENCE
+Proper Way to Do DATA SCIENCE
